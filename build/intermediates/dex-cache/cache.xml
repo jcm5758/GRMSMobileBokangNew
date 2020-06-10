@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-26.0.0-alpha1_08767f37c6079560f1b9acbb403ff2d3645194ec.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-26.0.0-alpha1_159a3998c745cd88d91b4886ab72f0413c35b537.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_6cb7359d2508eee8904acb3c0a671058ea5e9202.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-26.0.0-alpha1_e848e8ea970f3d3a61dd8d8538c61b20a20a2039.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-26.0.0-alpha1_c4bc2fedd071f81630b4fa72a88702061517945b.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-26.0.0-alpha1_73d58437a6d034866243457e29359238d9702f80.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\achartengine-1.1.0_b2c7a3619ea5e912abe16cc41601aa26750e5cfc.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-26.0.0-alpha1_3769cf259c15b2fe6a571b0bc3e516fe7a1cc213.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-26.0.0-alpha1_33206aa83a9f7de0b6489bbb28085932f3ccce68.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-26.0.0-alpha1_31cdbece1033f16fa66236939f4d2276ef02c2f8.jar" />
+    </item>
+    <item
+        jar="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Android\Studio-Workspace\RMS\Bokang\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-26.0.0-alpha1_83d159a5ee1dd6825618b82bda55af8aac3409b2.jar" />
+    </item>
+
+</items>

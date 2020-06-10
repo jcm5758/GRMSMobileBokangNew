@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\72430a70c512c70bc3828e2de771e139\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\996ee3141723fa84a58a52b915214330\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\9bcc6cf0935435198ac370c66c5d11f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\263cb83360eebd574de37ef416217ffc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\07a5d3e488f60294897fe55fa7752654\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\8d38db782019e9f273b04f451efa3d0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\5ea1efeec2afeced32a386c1ac4a741b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\9e2831c145c43fcda3a3bd7cb8d921f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e8b0534ed8962b44e5759c461c59d331\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\86a37155b20ea4ad218413264bb39566\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\475f98433ef1a14b6a7e66d2540ae91b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1b9fc793882f4775d563c57db249f9b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\550e543692e3ac2f014c323468e878de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e689f495c375e05bfc9c2852a44ae3a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\c4d1e5a1d7b58bb73d240a90f840cb4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\6b7a166833775b05c7f4c272b3952c13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e3effe07aac8bdcc27c7ab1d2536dc70\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\541feb13a5fcff67d729b59ebbf23f13\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\7bc485f74aa84e91b227d92d5f19ba69\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\dfed76ac10c4050ef6305991f6afd6e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\8acaf34b8e67c1f72fc1be843163a45a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\c08b6182133b50ba09ce8cba1a04103c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\beab0c2645a33348142d19acee88c2bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\7cef3ba57c3e4caa2027d2f722b9743f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\84cefb2b64d4cab34e1ece0ab2bcfb0c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1eeed312f10acb5df79bb3a4f16d3b48\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\6bd9e79527a280b0ea1e6588f3617550\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1aa1d6f5b1c49c02a9fdc7c2a77780f3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:10:5-67:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e3effe07aac8bdcc27c7ab1d2536dc70\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e3effe07aac8bdcc27c7ab1d2536dc70\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\541feb13a5fcff67d729b59ebbf23f13\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\541feb13a5fcff67d729b59ebbf23f13\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e3effe07aac8bdcc27c7ab1d2536dc70\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:14:9-73
+	android:networkSecurityConfig
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:15:9-69
+activity#com.geurimsoft.cctv.AppMain
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:18:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.geurimsoft.cctv.CCTVMain
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:screenOrientation
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:30:13-50
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:28:13-56
+activity#com.geurimsoft.cctv.AppSetting
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:33:13-58
+activity#com.geurimsoft.cctv.StatView01
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:38:13-58
+activity#com.geurimsoft.cctv.YonginTabActivity
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:43:13-45
+	android:configChanges
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:45:13-74
+	android:theme
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:44:13-74
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:42:13-65
+activity#com.geurimsoft.cctv.TestStatistic
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:49:13-61
+activity#com.geurimsoft.cctv.GwangjuTabActivity
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:52:9-57:20
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:54:13-45
+	android:configChanges
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:56:13-74
+	android:theme
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:55:13-74
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:53:13-66
+activity#com.geurimsoft.cctv.TotalTabActivity
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:58:9-63:20
+	android:label
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:62:13-74
+	android:theme
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:59:13-64
+activity#org.achartengine.GraphicalActivity
+ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:66:9-71
+	android:name
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml:66:19-68
+uses-sdk
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\72430a70c512c70bc3828e2de771e139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\72430a70c512c70bc3828e2de771e139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\996ee3141723fa84a58a52b915214330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\996ee3141723fa84a58a52b915214330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\9bcc6cf0935435198ac370c66c5d11f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\9bcc6cf0935435198ac370c66c5d11f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\263cb83360eebd574de37ef416217ffc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\263cb83360eebd574de37ef416217ffc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\07a5d3e488f60294897fe55fa7752654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\07a5d3e488f60294897fe55fa7752654\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\8d38db782019e9f273b04f451efa3d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\8d38db782019e9f273b04f451efa3d0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\5ea1efeec2afeced32a386c1ac4a741b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\5ea1efeec2afeced32a386c1ac4a741b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\9e2831c145c43fcda3a3bd7cb8d921f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\9e2831c145c43fcda3a3bd7cb8d921f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e8b0534ed8962b44e5759c461c59d331\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e8b0534ed8962b44e5759c461c59d331\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\86a37155b20ea4ad218413264bb39566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\86a37155b20ea4ad218413264bb39566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\475f98433ef1a14b6a7e66d2540ae91b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\475f98433ef1a14b6a7e66d2540ae91b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1b9fc793882f4775d563c57db249f9b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1b9fc793882f4775d563c57db249f9b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\550e543692e3ac2f014c323468e878de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\550e543692e3ac2f014c323468e878de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e689f495c375e05bfc9c2852a44ae3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e689f495c375e05bfc9c2852a44ae3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\c4d1e5a1d7b58bb73d240a90f840cb4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\c4d1e5a1d7b58bb73d240a90f840cb4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\6b7a166833775b05c7f4c272b3952c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\6b7a166833775b05c7f4c272b3952c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e3effe07aac8bdcc27c7ab1d2536dc70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\e3effe07aac8bdcc27c7ab1d2536dc70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\541feb13a5fcff67d729b59ebbf23f13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\541feb13a5fcff67d729b59ebbf23f13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\7bc485f74aa84e91b227d92d5f19ba69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\7bc485f74aa84e91b227d92d5f19ba69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\dfed76ac10c4050ef6305991f6afd6e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\dfed76ac10c4050ef6305991f6afd6e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\8acaf34b8e67c1f72fc1be843163a45a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\8acaf34b8e67c1f72fc1be843163a45a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\c08b6182133b50ba09ce8cba1a04103c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\c08b6182133b50ba09ce8cba1a04103c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\beab0c2645a33348142d19acee88c2bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\beab0c2645a33348142d19acee88c2bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\7cef3ba57c3e4caa2027d2f722b9743f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\7cef3ba57c3e4caa2027d2f722b9743f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\84cefb2b64d4cab34e1ece0ab2bcfb0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\84cefb2b64d4cab34e1ece0ab2bcfb0c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1eeed312f10acb5df79bb3a4f16d3b48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1eeed312f10acb5df79bb3a4f16d3b48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\6bd9e79527a280b0ea1e6588f3617550\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\6bd9e79527a280b0ea1e6588f3617550\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1aa1d6f5b1c49c02a9fdc7c2a77780f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taiho\.gradle\caches\transforms-2\files-2.1\1aa1d6f5b1c49c02a9fdc7c2a77780f3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Studio-Workspace\RMS\Bokang\app\src\main\AndroidManifest.xml

@@ -136,8 +136,8 @@ public class XmlConverter
 			return null;
 		}
 
-//		Log.d(AppConfig.TAG, "DEBUGGING : " + XmlConverter.class.getName() + " : parseMonth() : XML : " + xml);
-
+		Log.d(AppConfig.TAG, "DEBUGGING : " + XmlConverter.class.getName() + " : parseMonth() : XML : " + xml);
+		
 		Gson gson = new Gson();
 
 		GSMonthInOut data = gson.fromJson(xml, GSMonthInOut.class);
